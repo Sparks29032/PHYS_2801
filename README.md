@@ -1,4 +1,4 @@
-# Collection of coding questions for PHYS2801/2
+# What's in each file
 
 Q17: Estimating the shape of a circle using regular polygons with more and more sides.
 
