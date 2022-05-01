@@ -13,3 +13,5 @@ Q118: Finding equipotential lines for a system consisting of three point charges
 Q128: Finding equipotential lines for a system consisting of a conducting box with two uniformly-charged conducting wires inside.
 
 Q137: Finding equipotential lines for a system consisting of an irregularly shaped conducting box with a uniformly-charged conducting wire inside.
+
+Q181: Performing Fourier analysis on a wave function to approximate its behavior after a certain time has passed.
